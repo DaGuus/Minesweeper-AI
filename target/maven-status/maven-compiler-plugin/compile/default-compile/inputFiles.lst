@@ -1,0 +1,14 @@
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/policyGradient/DQNState.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/qLearn/Action.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/policyGradient/Action.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/qLearn/DeepQLearning.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/qLearn/State.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/game/Tile.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/game/Game.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/game/gui/GamePanel.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/policyGradient/PolicyGradients.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/policyGradient/State.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/qLearn/DQNState.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/ai/qLearn/QLearning.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/game/Main.java
+/home/guus/Documents/Programming/MinesweeperAI/src/main/java/minesweeper/game/gui/MainGUI.java
